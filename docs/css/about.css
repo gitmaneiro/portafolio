@@ -1,0 +1,71 @@
+.about{
+	padding-top:120px;
+	padding-bottom:120px;
+	background-color:#343436;
+}
+
+.about h3{
+	font-size:14px;
+	color:#e4aa48;
+	font-weight:bold;
+	text-transform:uppercase;
+	letter-spacing: .12em;
+	text-align:center;
+}
+
+.parrafop{
+	font-size:30px;
+	font-weight:700;
+	line-height:26px;
+	color:#dadada;
+	text-align:center;
+
+}
+
+.about-detalle{
+	padding-right:30px;
+}
+
+.about-detalle h2{
+	margin-bottom:20px;
+	font-size:24px;
+	line-height:45px;
+	color:#dadada;
+}
+
+.about-detalle p{
+	font-size:16px;
+	font-weight:normal;
+	line-height:26px;
+	color:#dadada;
+	font-family:'Nunito', sans-serif;
+}
+
+.titulo-skills{
+	margin-bottom:20px;
+	font-size:24px;
+	line-height:45px;
+	color:#dadada;
+	
+}
+.titulo-skills i, .about-detalle i{
+	color:#e4aa48;
+}
+
+.about-skills{
+	padding-left:30px;
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.about-skills div{
+	padding:1rem 2rem;
+	margin-bottom:1.5rem;
+	margin-right:1.5rem;
+	font-size:14px;
+	border-radius:5px;
+	font-weight:bold;
+	letter-spacing: .12em;
+	background:#2e2e35;
+	color:#e4aa48;
+}

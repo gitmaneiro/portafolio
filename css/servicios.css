@@ -1,0 +1,48 @@
+.servicios{
+	padding-top:120px;
+	padding-bottom:120px;
+	background-color:#2e2e35;
+}
+
+.servicios h3{
+	font-size:14px;
+	color:#e4aa48;
+	font-weight:bold;
+	text-transform:uppercase;
+	letter-spacing: .12em;
+	text-align:center;
+}
+
+
+.area--box{
+	padding:40px 30px;
+	border-radius:15px;
+	text-align:center;
+	color:#dadada;
+	background-color:#343436;
+	box-shadow:rgba(1, 1, 1, 0.06) 1px;
+	transition:.3s ease;
+}
+
+.area--box:hover{
+	transform:translatey(-0.25rem);
+	box-shadow:rgba(46, 41, 51, 0.08) 0px 2px 4px, rgba(71, 63, 79, 0.16) 0px 5px 10px;
+}
+
+.area--box i{
+	font-size:30px;
+	color:#e4aa48;
+	margin-bottom:20px;
+}
+
+.area--box h4{
+	font-size:1.2rem;
+	color:#dadada;
+}
+
+.area--box p{
+	font-size:15px;
+	font-weight:normal;
+	line-height:26px;
+	color:#dadada;
+}
